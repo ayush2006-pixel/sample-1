@@ -1,3 +1,4 @@
 # sample-1
 This is my 1st git repository
-Hey its me Ayush Srivastava
+<br>
+<h1>Hey its me Ayush Srivastava</h1>
